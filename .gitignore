@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Generated artifacts (recreate with the scripts)
+data/
+models/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
